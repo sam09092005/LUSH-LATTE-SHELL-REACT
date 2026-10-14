@@ -1,0 +1,16 @@
+CÓMO ABRIR TU LUSH LATTE EN REACT
+
+1. Descarga el ZIP y haz clic derecho > Extraer todo.
+2. En Visual Studio Code, detén la terminal anterior con Ctrl + C.
+3. Selecciona File > Open Folder (Archivo > Abrir carpeta).
+4. Elige la nueva carpeta lush-latte-react que extrajiste del ZIP. Debe contener package.json y src.
+5. Abre Terminal > New Terminal (Nueva terminal).
+6. Escribe npm install y pulsa Enter. Espera que termine.
+7. Escribe npm run dev y pulsa Enter.
+8. Abre el enlace Local que aparece en la terminal.
+9. Ahora verás Lush Latte, en lugar de la pantalla inicial de Vite.
+10. Revisa Inicio, Menú y Pedido usando la navegación de arriba.
+
+No necesitas copiar el HTML en App.jsx ni mezclarlo con la plantilla anterior.
+Las capturas están en evidencia. El texto para tu entrega está en ENTREGA_H3.md.
+Antes de entregar, sube el proyecto a GitHub sin node_modules y añade el enlace real a ENTREGA_H3.md.
